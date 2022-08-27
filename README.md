@@ -21,7 +21,11 @@ The best way to lose weight if you're overweight is through a combination of die
 
 The best way to lose weight if you're obese is through a combination of diet and exercise, and, in some cases, medicines. See a GP for help and advice.
 
-Screenshots of the BMI Calculator App.
-![Screenshot_20220827_161543](https://user-images.githubusercontent.com/73651340/187037329-5827e404-38a5-4dfc-bff0-88f4e080b0bd.png)
-![Screenshot_20220827_161621](https://user-images.githubusercontent.com/73651340/187037349-efc2534b-f198-4c55-a7d8-806ce1eb4dbc.png)![Screenshot_20220827_161649](https://user-images.githubusercontent.com/73651340/187037376-9675bb5d-2b10-4880-8f53-aab053923d4f.png)
+## Screenshots of the BMI Calculator App.
+
+![Screenshot_20220827_161543](https://user-images.githubusercontent.com/73651340/187037871-84dffa49-fc3e-44cc-8bf4-20783148e591.png)
+![Screenshot_20220827_161621](https://user-images.githubusercontent.com/73651340/187037873-1c15cc2e-2418-4837-8cfa-d52c99d47053.png)
+![Screenshot_20220827_161649](https://user-images.githubusercontent.com/73651340/187037879-eef594da-156f-4da5-9f35-f77bba36cd0b.png)
+
+
 
