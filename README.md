@@ -26,6 +26,8 @@ The best way to lose weight if you're obese is through a combination of diet and
 ![Screenshot_20220827_161543](https://user-images.githubusercontent.com/73651340/187037871-84dffa49-fc3e-44cc-8bf4-20783148e591.png)
 ![Screenshot_20220827_161621](https://user-images.githubusercontent.com/73651340/187037873-1c15cc2e-2418-4837-8cfa-d52c99d47053.png)
 ![Screenshot_20220827_161649](https://user-images.githubusercontent.com/73651340/187037879-eef594da-156f-4da5-9f35-f77bba36cd0b.png)
-
+![Screenshot_20220827_170320](https://user-images.githubusercontent.com/73651340/187050751-b147cc82-a20f-4066-8f99-26ef844fbbab.png)
+![Screenshot_20220827_170254](https://user-images.githubusercontent.com/73651340/187050755-b5b1fdb3-228c-4ec7-b4ce-c8111beccdce.png)
+![Screenshot_20220827_235313](https://user-images.githubusercontent.com/73651340/187050767-29637564-501d-4b77-b53d-0d84e9dc6cb9.png)
 
 
